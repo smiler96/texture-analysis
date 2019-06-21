@@ -9,17 +9,17 @@ Latest and Great review of this fiel is Li Liu's work!
 
 ![summary](imgs/summary.png)
 
-| [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | 2012(#2012) | 2011(#2011) | | 2010-(#2010-) |
+| [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | 2012(#2012) | 2011(#2011) | 2010-(#2010-) |
 |:--------|:--------:|:--------:|:--------:||:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 
-This work is in continuous progress and update. We are adding new PWC everyday! email me![@wanqian](wanqian_hust@163.com)   
+This work is in continuous progress and update. We are adding new PWC everyday! email me[@wanqian](wanqian_hust@163.com)   
 #### Monthly updated pushed! 
 
 ## 2019
 
 ## 2018
-| Title | Conf | Code | Stars |
-|:--------|:--------:|:--------:|:--------:|
+| Title | Conf or Journal | Code | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [code](https://github.com/NVIDIA/vid2vid) | 5578 | 
 
 ## 2017
