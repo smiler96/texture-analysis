@@ -40,6 +40,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2015
 | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](*) | recognition | 38 | * |
 
 # 2014
 | Title | Conf/Journal | Code | Field | Citation | Performance |
@@ -48,7 +49,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2013
 | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](*) | classification | 727 | * |
+| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](http://vis-www.cs.umass.edu/bcnn/) | classification | 727 | * |
 
 
 # 2012
