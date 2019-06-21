@@ -32,6 +32,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Deep TEN: Texture Encoding Network](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Deep_TEN_Texture_CVPR_2017_paper.html) | CVPR | [code](https://github.com/zhanghang1989/Torch-Encoding-Layer) | 68 | recognition | 42 | * |
 | [Locally transferred fisher vectors for texture classification](http://openaccess.thecvf.com/content_ICCV_2017/papers/Song_Locally-Transferred_Fisher_Vectors_ICCV_2017_paper.pdf) | ICCV | [code](*) | * | recognition | 10 | * |
+| [FASON: First and Second Order Information Fusion Network for Texture Recognition](https://ieeexplore.ieee.org/document/8100129) | CVPR | [code](*) | * | recognition | 16 | * |
 
 # 2016
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
