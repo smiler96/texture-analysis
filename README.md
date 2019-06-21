@@ -31,6 +31,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Deep TEN: Texture Encoding Network](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Deep_TEN_Texture_CVPR_2017_paper.html) | CVPR | [code](https://github.com/zhanghang1989/Torch-Encoding-Layer) | 68 | recognition | 42 | * |
+| [Locally transferred fisher vectors for texture classification](http://openaccess.thecvf.com/content_ICCV_2017/papers/Song_Locally-Transferred_Fisher_Vectors_ICCV_2017_paper.pdf) | ICCV | [code](*) | * | recognition | 10 | * |
 
 # 2016
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
@@ -42,6 +43,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](https://github.com/HaoMood/bilinear-cnn) | 196 | recognition | 38 | * |
+| [PCANet: A Simple Deep Learning Baseline for Image Classification?](https://ieeexplore.ieee.org/document/7234886) | TIP | [code](https://github.com/IshitaTakeshi/PCANet) | 87 | recognition | 633 | * |
 
 # 2014
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
