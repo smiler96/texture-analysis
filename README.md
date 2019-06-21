@@ -11,8 +11,7 @@ Latest review! [From BoW to CNN: Two Decades of Texture Representation for Textu
 
 ![summary](imgs/summary.png)
 
-| [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010-](#2010-) |  
-|:--------|:--------:|:--------:|:--------:|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012-](#2012-) |
 
 This work is in continuous progress and update. Any suggestiones and problems, email me: <wanqian_hust@163.com>   
 #### Monthly updated pushed! 
@@ -57,16 +56,9 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 | [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | TPAMI | [code](https://github.com/scatnet/scatnet) | 69 | classification | 727 | * |
 
 
-# 2012
+# 2012-
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-
-# 2011
-| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-
-# 2010-
-| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Sorted Random Projections for robust texture classification, 2011](https://ieeexplore.ieee.org/document/6126267) | ICCV | [code](*) | * | reconstruction | 84 | * |
 | [TEXEMS: Texture Exemplars for Defect Detection on Random Textured Surfaces, 2007](https://ieeexplore.ieee.org/abstract/document/4250469/) | TPAMI | [code](*) | * | reconstruction | 108 | * |
 
