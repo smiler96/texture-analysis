@@ -1,4 +1,7 @@
 # texture-analysis
+
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
+
 The repository includes texture representation, recognition, segmentation and others of texture analysis.
 Great thank for the pioneer researchers in texture analysis and other related fields! 
 Previous work including reviews and other great work for texture analysis.
