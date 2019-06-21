@@ -18,48 +18,49 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 #### Monthly updated pushed! 
 
 # 2019
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | * | review | 14 | * |
-| [Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects](https://ieeexplore.ieee.org/document/8598794?arnumber=8598794) | IEEE TASE | * | reconstruction | 0 | * |
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | * | * |review | 14 | * |
+| [Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects](https://ieeexplore.ieee.org/document/8598794?arnumber=8598794) | IEEE TASE | * | * | reconstruction | 0 | * |
 
 # 2018
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 # 2017
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Deep TEN: Texture Encoding Network](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Deep_TEN_Texture_CVPR_2017_paper.html) | CVPR | [code](https://github.com/zhanghang1989/Torch-Encoding-Layer) | 68 | recognition | 42 | * |
 
 # 2016
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](*) | recognition/segmentation | 395 | * |
-| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | IEEE TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | recognition | 144 | * |
+| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | IEEE TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | * | recognition | 144 | * |
 
 # 2015
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](*) | recognition | 38 | * |
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](*) | * | recognition | 38 | * |
 
 # 2014
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 # 2013
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](http://vis-www.cs.umass.edu/bcnn/) | classification | 727 | * |
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](http://vis-www.cs.umass.edu/bcnn/) | * | classification | 727 | * |
 
 
 # 2012
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 # 2011
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 
 # 2010-
-| Title | Conf/Journal | Code | Field | Citation | Performance |
-|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Title | Conf/Journal | Code | Star | Field | Citation | Performance |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
