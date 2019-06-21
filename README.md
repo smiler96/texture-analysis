@@ -21,6 +21,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | * | review | 14 | * |
+| [Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects](https://ieeexplore.ieee.org/document/8598794?arnumber=8598794) | IEEE TASE | * | review | 14 | * |
 
 # 2018
 | Title | Conf/Journal | Code | Field | Citation | Performance |
@@ -33,7 +34,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2016
 | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | classification | 144 | * |
+| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | IEEE TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | reconstruction | 0 | * |
 
 # 2015
 | Title | Conf/Journal | Code | Field | Citation | Performance |
@@ -46,7 +47,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2013
 | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | TPAMI | [code](*) | classification | 727 | * |
+| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](*) | classification | 727 | * |
 
 
 # 2012
