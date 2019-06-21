@@ -23,6 +23,8 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 ## 2017
 
 ## 2016
+| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | * | classification | 144 | * |
+
 
 ## 2015
 
