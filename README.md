@@ -37,14 +37,16 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2016
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Compact Bilinear Pooling](https://ieeexplore.ieee.org/document/7780410) | CVPR | [code](https://github.com/gy20073/compact_bilinear_pooling) | 161 | recognition | 181 | * |
 | [Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](https://github.com/mcimpoi/deep-fbanks) | 71 |rec/seg | 395 | * |
 | [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | 0 | recognition | 144 | * |
+| [Using Filter Banks in Convolutional Neural Networks for Texture Classification](https://arxiv.org/pdf/1601.02919.pdf) | PRL | [code](*) | * | recognition | 88 | * |
 
 # 2015
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](https://github.com/HaoMood/bilinear-cnn) | 196 | recognition | 38 | * |
-| [PCANet: A Simple Deep Learning Baseline for Image Classification?](https://ieeexplore.ieee.org/document/7234886) | TIP | [code](https://github.com/IshitaTakeshi/PCANet) | 87 | recognition | 633 | * |
+| [PCANet: A Simple Deep Learning Baseline for Image Classification?](https://ieeexplore.ieee.org/document/7234886) | TIP | [code](https://github.com/Ldpe2G/PCANet) | 64 | recognition | 633 | * |
 
 # 2014
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
