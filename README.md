@@ -18,7 +18,7 @@ This work is in continuous progress and update. We are adding new PWC everyday! 
 ## 2018
 | Title | Conf or Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [code](https://github.com/NVIDIA/vid2vid) | 5578 | 
+| [From BoW to CNN: Two Decades of Texture Representation for Texture Classification]((https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | * | review | 14 | * |
 
 ## 2017
 
