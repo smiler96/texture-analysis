@@ -20,12 +20,12 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2019
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | * | * |review | 14 | * |
-| [Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects](https://ieeexplore.ieee.org/document/8598794?arnumber=8598794) | IEEE TASE | * | * | reconstruction | 0 | * |
+| [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | [code](*) | * |review | 14 | * |
 
 # 2018
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Deep Texture Manifold for Ground Terrain Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xue_Deep_Texture_Manifold_CVPR_2018_paper.pdf) | CVPR | [code](https://github.com/jiaxue1993/Deep-Encoding-Pooling-Network-DEP-) | 27 | recognition | 12 | * |
 
 # 2017
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
@@ -35,13 +35,13 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2016
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](*) | recognition/segmentation | 395 | * |
-| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | IEEE TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | * | recognition | 144 | * |
+| [Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](https://github.com/mcimpoi/deep-fbanks) | 71 |rec/seg | 395 | * |
+| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | IEEE TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | 0 | recognition | 144 | * |
 
 # 2015
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](*) | * | recognition | 38 | * |
+| [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](https://github.com/HaoMood/bilinear-cnn) | 196 | recognition | 38 | * |
 
 # 2014
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
@@ -50,7 +50,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2013
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](http://vis-www.cs.umass.edu/bcnn/) | * | classification | 727 | * |
+| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](https://github.com/scatnet/scatnet) | 69 | classification | 727 | * |
 
 
 # 2012
