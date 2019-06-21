@@ -42,6 +42,8 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2013
 | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | TPAMI | [code](*) | classification | 727 | * |
+
 
 # 2012
 | Title | Conf/Journal | Code | Field | Citation | Performance |
