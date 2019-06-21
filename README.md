@@ -65,3 +65,5 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2010-
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [TEXEMS: Texture Exemplars for Defect Detection on Random Textured Surfaces, 2007](https://ieeexplore.ieee.org/abstract/document/4250469/) | TPAMI | [code](*) | * | reconstruction | 108 | * |
+
