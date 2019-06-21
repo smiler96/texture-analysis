@@ -15,9 +15,8 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 
 | Year | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------:|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-| #2019 | [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | * | review | 14 | * |
-
-| #2016 | [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | * | classification | 144 | * |
+| 2019 | [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | * | review | 14 | * |
+| 2016 | [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | * | classification | 144 | * |
 
 
 
