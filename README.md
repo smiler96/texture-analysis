@@ -36,7 +36,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](https://github.com/mcimpoi/deep-fbanks) | 71 |rec/seg | 395 | * |
-| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | IEEE TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | 0 | recognition | 144 | * |
+| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | 0 | recognition | 144 | * |
 
 # 2015
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
@@ -46,11 +46,12 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2014
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Describing Textures in the Wild](https://www.robots.ox.ac.uk/~vgg/publications/2014/Cimpoi14/) | CVPR | [code](https://github.com/lidong04/deep-fbanks-ct/tree/master/desctex) | 1 | classification | 360 | * |
 
 # 2013
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | IEEE TPAMI | [code](https://github.com/scatnet/scatnet) | 69 | classification | 727 | * |
+| [Invariant Scattering Convolution Networks](https://ieeexplore.ieee.org/document/6522407) | TPAMI | [code](https://github.com/scatnet/scatnet) | 69 | classification | 727 | * |
 
 
 # 2012
