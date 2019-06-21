@@ -34,6 +34,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2016
 | Title | Conf/Journal | Code | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](*) | recognition/segmentation | 177 | * |
 | [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | IEEE TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | recognition | 144 | * |
 
 # 2015
