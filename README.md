@@ -64,5 +64,6 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [Invariant Scattering Convolution Networks, 2013](https://ieeexplore.ieee.org/document/6522407) | TPAMI | [code](https://github.com/scatnet/scatnet) | 69 | classification | 727 | * |
 | [Sorted Random Projections for robust texture classification, 2011](https://ieeexplore.ieee.org/document/6126267) | ICCV | [code](*) | * | reconstruction | 84 | * |
+| [Aggregating local descriptors into a compact image representation, 2010](https://www.semanticscholar.org/paper/Aggregating-local-descriptors-into-a-compact-image-J%C3%A9gou-Douze/0fbb184871bd7660bc579178848d58beb8288b7d) | CVPR | [code](*) | * | recognition | 1319 | * |
 | [TEXEMS: Texture Exemplars for Defect Detection on Random Textured Surfaces, 2007](https://ieeexplore.ieee.org/abstract/document/4250469/) | TPAMI | [code](*) | * | reconstruction | 108 | * |
 
