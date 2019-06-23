@@ -40,30 +40,30 @@ Title | Conf/Journal | Code | Star | Field | Citation | Performance
 # 2016
 Title | Conf/Journal | Code | Star | Field | Citation | Performance 
 ------|--------------|------|------|-------|----------|-------------
-| [NetVLAD: CNN architecture for weakly supervised place recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780941&tag=1) | CVPR | [code](https://github.com/Relja/netvlad) | 236 | recognition | 509 | * |
-| [Compact Bilinear Pooling](https://ieeexplore.ieee.org/document/7780410) | CVPR | [code](https://github.com/gy20073/compact_bilinear_pooling) | 161 | recognition | 181 | * |
-| [Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](https://github.com/mcimpoi/deep-fbanks) | 71 |rec/seg | 395 | * |
-| [Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | 0 | recognition | 144 | * |
-| [Using Filter Banks in Convolutional Neural Networks for Texture Classification](https://arxiv.org/pdf/1601.02919.pdf) | PRL | [code](*) | * | recognition | 88 | * |
+[NetVLAD: CNN architecture for weakly supervised place recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780941&tag=1) | CVPR | [code](https://github.com/Relja/netvlad) | 236 | recognition | 509 | * 
+[Compact Bilinear Pooling](https://ieeexplore.ieee.org/document/7780410) | CVPR | [code](https://github.com/gy20073/compact_bilinear_pooling) | 161 | recognition | 181 | * |
+[Deep Filter Banks for Texture Recognition, Description, and Segmentation](https://link.springer.com/article/10.1007/s11263-015-0872-3) | IJCV | [code](https://github.com/mcimpoi/deep-fbanks) | 71 |rec/seg | 395 | * 
+[Median Robust Extended Local Binary Pattern for Texture Classification](https://ieeexplore.ieee.org/document/7393828) | TIP | [code](https://github.com/MIPT-Oulu/LocalBinaryPattern) | 0 | recognition | 144 | * 
+[Using Filter Banks in Convolutional Neural Networks for Texture Classification](https://arxiv.org/pdf/1601.02919.pdf) | PRL | [code](*) | * | recognition | 88 | * |
 
 
 # 2015
 Title | Conf/Journal | Code | Star | Field | Citation | Performance 
 ------|--------------|------|------|-------|----------|-------------
-| [PCANet: A Simple Deep Learning Baseline for Image Classification?](https://ieeexplore.ieee.org/document/7234886) | TIP | [code](https://github.com/Ldpe2G/PCANet) | 64 | recognition | 633 | * |
-| [Bilinear CNN Models for Fine-grained Visual Recognition](https://www.semanticscholar.org/paper/Bilinear-CNN-Models-for-Fine-Grained-Visual-Lin-RoyChowdhury/3a307b7e2e742dd71b6d1ca7fde7454f9ebd2811) | ICCV | [code](https://bitbucket.org/tsungyu/bcnn) | * | recognition | 391 | * |
-| [Deep filter banks for texture recognition and segmentation](https://www.semanticscholar.org/paper/Deep-filter-banks-for-texture-recognition-and-Cimpoi-Maji/27ce4b367bf52854efa10adab729b484dcf315aa) | CVPR | [code](https://github.com/mcimpoi/deep-fbanks) | 71 | recognition | 325 | * |
+[PCANet: A Simple Deep Learning Baseline for Image Classification?](https://ieeexplore.ieee.org/document/7234886) | TIP | [code](https://github.com/Ldpe2G/PCANet) | 64 | recognition | 633 | * 
+[Bilinear CNN Models for Fine-grained Visual Recognition](https://www.semanticscholar.org/paper/Bilinear-CNN-Models-for-Fine-Grained-Visual-Lin-RoyChowdhury/3a307b7e2e742dd71b6d1ca7fde7454f9ebd2811) | ICCV | [code](https://bitbucket.org/tsungyu/bcnn) | * | recognition | 391 | * 
+[Deep filter banks for texture recognition and segmentation](https://www.semanticscholar.org/paper/Deep-filter-banks-for-texture-recognition-and-Cimpoi-Maji/27ce4b367bf52854efa10adab729b484dcf315aa) | CVPR | [code](https://github.com/mcimpoi/deep-fbanks) | 71 | recognition | 325 | * 
 
 # 2014
 Title | Conf/Journal | Code | Star | Field | Citation | Performance 
 ------|--------------|------|------|-------|----------|-------------
-| [Describing Textures in the Wild](https://www.robots.ox.ac.uk/~vgg/publications/2014/Cimpoi14/) | CVPR | [code](https://github.com/lidong04/deep-fbanks-ct/tree/master/desctex) | 1 | classification | 360 | * |
+[Describing Textures in the Wild](https://www.robots.ox.ac.uk/~vgg/publications/2014/Cimpoi14/) | CVPR | [code](https://github.com/lidong04/deep-fbanks-ct/tree/master/desctex) | 1 | classification | 360 | * 
 
 # 2013-
 Title | Conf/Journal | Code | Star | Field | Citation | Performance 
 ------|--------------|------|------|-------|----------|-------------
-| [Invariant Scattering Convolution Networks, 2013](https://ieeexplore.ieee.org/document/6522407) | TPAMI | [code](https://github.com/scatnet/scatnet) | 69 | classification | 727 | * |
-| [Sorted Random Projections for robust texture classification, 2011](https://ieeexplore.ieee.org/document/6126267) | ICCV | [code](*) | * | reconstruction | 84 | * |
-| [Aggregating local descriptors into a compact image representation, 2010](https://www.semanticscholar.org/paper/Aggregating-local-descriptors-into-a-compact-image-J%C3%A9gou-Douze/0fbb184871bd7660bc579178848d58beb8288b7d) | CVPR | [code](*) | * | recognition | 1319 | * |
-| [TEXEMS: Texture Exemplars for Defect Detection on Random Textured Surfaces, 2007](https://ieeexplore.ieee.org/abstract/document/4250469/) | TPAMI | [code](*) | * | reconstruction | 108 | * |
+[Invariant Scattering Convolution Networks, 2013](https://ieeexplore.ieee.org/document/6522407) | TPAMI | [code](https://github.com/scatnet/scatnet) | 69 | classification | 727 | * 
+[Sorted Random Projections for robust texture classification, 2011](https://ieeexplore.ieee.org/document/6126267) | ICCV | [code](*) | * | reconstruction | 84 | * 
+[Aggregating local descriptors into a compact image representation, 2010](https://www.semanticscholar.org/paper/Aggregating-local-descriptors-into-a-compact-image-J%C3%A9gou-Douze/0fbb184871bd7660bc579178848d58beb8288b7d) | CVPR | [code](*) | * | recognition | 1319 | * 
+[TEXEMS: Texture Exemplars for Defect Detection on Random Textured Surfaces, 2007](https://ieeexplore.ieee.org/abstract/document/4250469/) | TPAMI | [code](*) | * | reconstruction | 108 | * 
 
