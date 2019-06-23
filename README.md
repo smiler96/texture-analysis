@@ -50,8 +50,9 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 # 2015
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](https://github.com/HaoMood/bilinear-cnn) | 196 | recognition | 38 | * |
 | [PCANet: A Simple Deep Learning Baseline for Image Classification?](https://ieeexplore.ieee.org/document/7234886) | TIP | [code](https://github.com/Ldpe2G/PCANet) | 64 | recognition | 633 | * |
+| [Deep filter banks for texture recognition and segmentation](https://www.semanticscholar.org/paper/Deep-filter-banks-for-texture-recognition-and-Cimpoi-Maji/27ce4b367bf52854efa10adab729b484dcf315aa) | CVPR | [code](https://github.com/mcimpoi/deep-fbanks) | 71 | recognition | 325 | * |
+| [Bilinear CNN Models for Fine-grained Visual Recognition](https://link.springer.com/article/10.1007/s11263-015-0872-3) | ICCV | [code](https://github.com/HaoMood/bilinear-cnn) | 196 | recognition | 38 | * |
 
 # 2014
 | Title | Conf/Journal | Code | Star | Field | Citation | Performance |
