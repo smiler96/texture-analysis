@@ -24,9 +24,7 @@ This work is in continuous progress and update. Any suggestiones and problems, e
 Title | Conf/Journal | Code | Star | Field | Citation | Performance 
 ------|--------------|------|------|-------|----------|-------------
 [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | [code](*) | * |review | 14 | * 
-
 [Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598794) | IEEE TASE | [code](*) | * |review | 0 | * 
-
 [Deep Multiple-Attribute-Perceived Network for Real-world Texture Recognition]
 (https://pdfs.semanticscholar.org/ba1f/6ef20824aba161c4b3666e29e99486f20390.pdf?_ga=2.164908863.1086869345.1577090910-1870122332.1571051271) | ICCV | [code](*) | * |review | 0 | * 
 
