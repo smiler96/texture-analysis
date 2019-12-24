@@ -25,9 +25,6 @@ Title | Conf/Journal | Code | Star | Field | Citation | Performance
 ------|--------------|------|------|-------|----------|-------------
 [From BoW to CNN: Two Decades of Texture Representation for Texture Classification](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1125-z.pdf) | IJCV | [code](*) | * |review | 14 | * 
 
-# 2019
-Title | Conf/Journal | Code | Star | Field | Citation | Performance 
-------|--------------|------|------|-------|----------|-------------
 [Multiscale Feature-Clustering-Based Fully Convolutional Autoencoder for Fast Accurate Visual Inspection of Texture Surface Defects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598794) | IEEE TASE | [code](*) | * |review | 0 | * 
 
 
